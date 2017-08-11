@@ -1,7 +1,7 @@
-# ProjectoKholeOSBootloader
+# Projecto KholeOS Bootloader
 
-Este projecto foi inicializado com propósito de espandir a tecnologia Angola, em áreias voltada ao desenvolvimento de sistemas embarcados.
+Este projecto foi inicializado com o propósito de expandir a tecnologia angolana, em áreias voltada ao desenvolvimento de sistemas embarcados.
 
 Na verdade os fontes é uma versão Lite do KholeOS 
 
-Para complar e testar, no directório KholeOSvLite/boot execute o comando em super usuário #make all
+Para compilar e testar, no directório KholeOSvLite/boot execute o comando em super usuário #make all
